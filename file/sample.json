@@ -1,0 +1,552 @@
+{
+    "Data": {
+        "FederatedId": "franco.capitina@MediaKind.Com",
+        "Gender": "M",
+        "HomeOrganization": {
+            "XRefCode": "QC Montreal Remote-Global Operations",
+            "ShortName": "CAN-QC Quebec Remote-Global Operations",
+            "LongName": "QC Quebec Remote-Global Operations"
+        },
+        "EmployeeNumber": "23699678",
+        "EmploymentStatuses": {
+            "Items": [
+                {
+                    "EmployeeNumber": "23699678",
+                    "EffectiveStart": "2022-04-01T00:00:00",
+                    "EmploymentStatus": {
+                        "IsBenefitArrearsEnabled": false,
+                        "XRefCode": "ACTIVE",
+                        "ShortName": "Active",
+                        "LongName": "Active"
+                    },
+                    "EmploymentStatusGroup": {
+                        "XRefCode": "ACTIVE",
+                        "ShortName": "Active",
+                        "LongName": "Active"
+                    },
+                    "PayType": {
+                        "XRefCode": "SALARIEDEXEMPT",
+                        "ShortName": "*Salaried Exempt - US & CANADA",
+                        "LongName": "Salaried Exempt"
+                    },
+                    "PayGroup": {
+                        "PayFrequency": {
+                            "PayFrequencyType": "s",
+                            "ShortName": "Semi-Monthly",
+                            "LongName": "Semi-Monthly"
+                        },
+                        "XRefCode": "CANADA",
+                        "ShortName": "3-Canada-Salary",
+                        "LongName": "3-Canada-Salary"
+                    },
+                    "PayTypeGroup": {
+                        "XRefCode": "Salary",
+                        "ShortName": "Salary",
+                        "LongName": "Salary"
+                    },
+                    "PayClass": {
+                        "XRefCode": "Regular",
+                        "ShortName": "Regular",
+                        "LongName": "Regular"
+                    },
+                    "PayHolidayGroup": {
+                        "XRefCode": "QUEBECHOLIDAY",
+                        "ShortName": "Quebec Holidays",
+                        "LongName": "Quebec Holidays"
+                    },
+                    "EmployeeGroup": {
+                        "XRefCode": "Active",
+                        "ShortName": "Employee",
+                        "LongName": "Regular Employee, usually but not always Full-time, IS a Headcount"
+                    },
+                    "CreateShiftRotationShift": true,
+                    "LastModifiedTimestamp": "2022-04-05T14:52:31"
+                }
+            ]
+        },
+        "WorkAssignments": {
+            "Items": [
+                {
+                    "Position": {
+                        "Department": {
+                            "XRefCode": "Global Operations",
+                            "ShortName": "Global Operations",
+                            "LongName": "Global Operations"
+                        },
+                        "Job": {
+                            "EmployeeEEO": {
+                                "XRefCode": "1.2",
+                                "ShortName": "1.2 - First/Mid Level Officials and Managers",
+                                "LongName": "1.2 - First/Mid Level Officials and Managers"
+                            },
+                            "JobFunction": {
+                                "UsableForExternalPosting": false,
+                                "XRefCode": "10P-Management-Director",
+                                "ShortName": "10P-Management-Director",
+                                "LongName": "10P-Management-Director"
+                            },
+                            "FLSAStatus": {
+                                "XRefCode": "EXEMPT",
+                                "ShortName": "Exempt",
+                                "LongName": "Exempt"
+                            },
+                            "XRefCode": "Director, Services _ Support",
+                            "ShortName": "Director, Services & Support"
+                        },
+                        "XRefCode": "Global Operations-Director, Services & Support",
+                        "ShortName": "Global Operations-Director, Services & Support",
+                        "LongName": "Global Operations-Director, Services & Support"
+                    },
+                    "Location": {
+                        "LegalEntity": {
+                            "Country": {
+                                "Name": "Canada",
+                                "XRefCode": "CAN",
+                                "ShortName": "Canada",
+                                "LongName": "Canada"
+                            },
+                            "LegalEntityAddress": {
+                                "Address1": "5090 Explorer Drive",
+                                "Address2": "Suite 101",
+                                "City": "Mississauga",
+                                "PostalCode": "L4W 4T9",
+                                "Country": {
+                                    "Name": "Canada",
+                                    "XRefCode": "CAN",
+                                    "ShortName": "Canada",
+                                    "LongName": "Canada"
+                                },
+                                "State": {
+                                    "Name": "Ontario",
+                                    "XRefCode": "ON",
+                                    "ShortName": "Ontario"
+                                }
+                            },
+                            "LegalIdNumber": "751019712",
+                            "XRefCode": "MK MediaTech Canada Inc.",
+                            "ShortName": "MK MediaTech Canada Inc.",
+                            "LongName": "MK MediaTech Canada Inc."
+                        },
+                        "XRefCode": "QC Montreal Remote-Global Operations",
+                        "ShortName": "CAN-QC Quebec Remote-Global Operations",
+                        "LongName": "QC Quebec Remote-Global Operations"
+                    },
+                    "EmploymentStatusReason": {
+                        "IsCompChangeReason": true,
+                        "IsLeaveReason": false,
+                        "IsPositionChangeReason": true,
+                        "IsTerminationReason": false,
+                        "XRefCode": "NEW ASSIGNMENT",
+                        "ShortName": "New Assignment",
+                        "LongName": "New Assignment"
+                    },
+                    "EffectiveStart": "2020-07-01T00:00:00",
+                    "IsPAPrimaryWorkSite": false,
+                    "IsPrimary": true,
+                    "IsVirtual": true,
+                    "BusinessTitle": "Head MMP Product Line",
+                    "LastModifiedTimeStamp": "2020-07-01T18:45:06.937"
+                }
+            ]
+        },
+        "Contacts": {
+            "Items": [
+                {
+                    "ContactNumber": "15145946687",
+                    "EffectiveStart": "1996-05-21T00:00:00",
+                    "ContactInformationType": {
+                        "ContactInformationTypeGroup": {
+                            "XRefCode": "Phone",
+                            "ShortName": "Phone",
+                            "LongName": "Phone"
+                        },
+                        "XRefCode": "BusinessMobile",
+                        "ShortName": "Business Mobile",
+                        "LongName": "Business Mobile"
+                    },
+                    "IsForSystemCommunications": false,
+                    "IsPreferredContactMethod": false,
+                    "IsUnlistedNumber": false,
+                    "IsVerified": false,
+                    "IsRejected": false,
+                    "ShowRejectedWarning": true,
+                    "NumberOfVerificationRequests": 0,
+                    "LastModifiedTimestamp": "2018-11-02T08:06:26"
+                },
+                {
+                    "ContactNumber": "15143797315",
+                    "EffectiveStart": "1996-05-21T00:00:00",
+                    "ContactInformationType": {
+                        "ContactInformationTypeGroup": {
+                            "XRefCode": "Phone",
+                            "ShortName": "Phone",
+                            "LongName": "Phone"
+                        },
+                        "XRefCode": "BusinessPhone",
+                        "ShortName": "Business",
+                        "LongName": "Business"
+                    },
+                    "IsForSystemCommunications": false,
+                    "IsPreferredContactMethod": false,
+                    "IsUnlistedNumber": false,
+                    "IsVerified": false,
+                    "IsRejected": false,
+                    "ShowRejectedWarning": true,
+                    "NumberOfVerificationRequests": 0,
+                    "LastModifiedTimestamp": "2018-11-02T08:06:26"
+                },
+                {
+                    "ElectronicAddress": "franco.capitina@MediaKind.Com",
+                    "EffectiveStart": "2019-02-01T00:00:00",
+                    "ContactInformationType": {
+                        "ContactInformationTypeGroup": {
+                            "XRefCode": "ElectronicAddress",
+                            "ShortName": "Email Address",
+                            "LongName": "Email Address"
+                        },
+                        "XRefCode": "BusinessEmail",
+                        "ShortName": "Business Email",
+                        "LongName": "Business Email"
+                    },
+                    "IsForSystemCommunications": true,
+                    "IsPreferredContactMethod": false,
+                    "IsUnlistedNumber": false,
+                    "IsVerified": true,
+                    "IsRejected": false,
+                    "ShowRejectedWarning": true,
+                    "NumberOfVerificationRequests": 0,
+                    "LastModifiedTimestamp": "2019-02-01T06:52:54"
+                }
+            ]
+        },
+        "EmployeeManagers": {
+            "Items": [
+                {
+                    "EffectiveStart": "2021-02-22T00:00:00",
+                    "ManagerXRefCode": "24001801",
+                    "ManagerFirstName": "David",
+                    "ManagerLastName": "Arbuckle",
+                    "DerivationMethod": 1,
+                    "LastModifiedTimestamp": "2021-02-23T09:26:58.9"
+                }
+            ]
+        },
+        "Locations": {
+            "Items": []
+        },
+        "EmploymentTypes": {
+            "Items": []
+        },
+        "EmployeeProperties": {
+            "Items": [
+                {
+                    "EffectiveStart": "2019-02-01T00:00:00",
+                    "EmployeeProperty": {
+                        "DataType": 2,
+                        "EmployeeCardinality": 0,
+                        "GenerateHREvent": false,
+                        "XRefCode": "EmployeePropertyXrefCode18",
+                        "ShortName": "Nationality",
+                        "LongName": "Nationality"
+                    },
+                    "StringValue": "Canadian",
+                    "LastModifiedTimestamp": "2019-02-03T01:06:12"
+                },
+                {
+                    "EffectiveStart": "2019-02-01T00:00:00",
+                    "EmployeeProperty": {
+                        "DataType": 2,
+                        "EmployeeCardinality": 0,
+                        "GenerateHREvent": false,
+                        "XRefCode": "EmployeePropertyXrefCode19",
+                        "ShortName": "Position Number",
+                        "LongName": "Position Number"
+                    },
+                    "StringValue": "30494415",
+                    "LastModifiedTimestamp": "2019-02-03T01:06:12"
+                },
+                {
+                    "EffectiveStart": "2019-02-01T00:00:00",
+                    "EmployeeProperty": {
+                        "DataType": 2,
+                        "EmployeeCardinality": 0,
+                        "GenerateHREvent": false,
+                        "XRefCode": "EmployeePropertyXrefCode22",
+                        "ShortName": "Signum [OBSOLETE]",
+                        "LongName": "Signum - Was the Ericsson network & applications security login"
+                    },
+                    "StringValue": "LMCFRCA",
+                    "LastModifiedTimestamp": "2019-02-03T01:06:12"
+                },
+                {
+                    "EffectiveStart": "2019-02-01T00:00:00",
+                    "EmployeeProperty": {
+                        "DataType": 0,
+                        "EmployeeCardinality": 0,
+                        "GenerateHREvent": false,
+                        "XRefCode": "EmployeePropertyXrefCode49",
+                        "ShortName": "Legal Entity",
+                        "LongName": "Legal Entity"
+                    },
+                    "OptionValue": {
+                        "XRefCode": "MK MediaTech Canada Inc.",
+                        "ShortName": "MK MediaTech Canada Inc.",
+                        "LongName": "MK MediaTech Canada Inc."
+                    },
+                    "LastModifiedTimestamp": "2019-02-03T01:06:12"
+                },
+                {
+                    "EffectiveStart": "2019-02-01T00:00:00",
+                    "EmployeeProperty": {
+                        "DataType": 0,
+                        "EmployeeCardinality": 0,
+                        "GenerateHREvent": false,
+                        "XRefCode": "EmployeePropertyXrefCode50",
+                        "ShortName": "Legacy Trigram",
+                        "LongName": "New Company Trigram [OBSOLETE], with \"New Company\" from Ericsson's perspective before the brand MediaKind was adopted"
+                    },
+                    "OptionValue": {
+                        "XRefCode": "ACA",
+                        "ShortName": "ACA",
+                        "LongName": "ACA"
+                    },
+                    "LastModifiedTimestamp": "2019-02-03T01:06:12"
+                },
+                {
+                    "EffectiveStart": "2019-10-01T00:00:00",
+                    "EmployeeProperty": {
+                        "DataType": 0,
+                        "EmployeeCardinality": 0,
+                        "GenerateHREvent": false,
+                        "XRefCode": "EmployeePropertyXrefCode59",
+                        "ShortName": "Company Name",
+                        "LongName": "Description of Company Code"
+                    },
+                    "OptionValue": {
+                        "XRefCode": "MediaKind Canada",
+                        "ShortName": "MediaKind Canada",
+                        "LongName": "MediaKind Canada"
+                    },
+                    "LastModifiedTimestamp": "2019-10-04T03:54:47"
+                },
+                {
+                    "EffectiveStart": "2019-10-01T00:00:00",
+                    "EmployeeProperty": {
+                        "DataType": 0,
+                        "EmployeeCardinality": 0,
+                        "GenerateHREvent": false,
+                        "XRefCode": "EmployeePropertyXrefCode58",
+                        "ShortName": "Company Code",
+                        "LongName": "First 4 digits of cost center, indicates legal entity"
+                    },
+                    "OptionValue": {
+                        "XRefCode": "2910",
+                        "ShortName": "2910",
+                        "LongName": "2910"
+                    },
+                    "LastModifiedTimestamp": "2019-10-04T06:50:14"
+                },
+                {
+                    "EffectiveStart": "2019-10-01T00:00:00",
+                    "EmployeeProperty": {
+                        "DataType": 2,
+                        "EmployeeCardinality": 0,
+                        "GenerateHREvent": false,
+                        "XRefCode": "EmployeePropertyXrefCode11",
+                        "ShortName": "Employee Vendor Number",
+                        "LongName": "Employee Vendor Number in SAP, which is required in order for them to get expenses reimbursed.  SAP Accounts Payable treats the employee as a vendor to be paid"
+                    },
+                    "StringValue": "10009328",
+                    "LastModifiedTimestamp": "2019-10-04T13:20:18"
+                },
+                {
+                    "EffectiveStart": "2019-10-31T00:00:00",
+                    "EmployeeProperty": {
+                        "DataType": 0,
+                        "EmployeeCardinality": 0,
+                        "GenerateHREvent": false,
+                        "XRefCode": "EmployeePropertyXrefCode48",
+                        "ShortName": "Currency",
+                        "LongName": "Currency - For Employees, Contractors, & Subcontractors - HOWEVER, Pay Group internally within Dayforce actually indicates Currency definitively for Payroll purposes"
+                    },
+                    "OptionValue": {
+                        "XRefCode": "Canadian Dollar",
+                        "ShortName": "CAD",
+                        "LongName": "CAD"
+                    },
+                    "LastModifiedTimestamp": "2019-11-04T01:54:46"
+                },
+                {
+                    "EffectiveStart": "2019-10-31T00:00:00",
+                    "EmployeeProperty": {
+                        "DataType": 0,
+                        "EmployeeCardinality": 0,
+                        "GenerateHREvent": false,
+                        "XRefCode": "EmployeePropertyXrefCode27",
+                        "ShortName": "Is Manager",
+                        "LongName": "Is Manager - This is only maintained here as a convenience for system integration programs that IT implemented"
+                    },
+                    "OptionValue": {
+                        "XRefCode": "Y",
+                        "ShortName": "Y",
+                        "LongName": "Y"
+                    },
+                    "LastModifiedTimestamp": "2019-11-04T02:09:35"
+                },
+                {
+                    "EffectiveStart": "2020-10-01T00:00:00",
+                    "EmployeeProperty": {
+                        "DataType": 2,
+                        "EmployeeCardinality": 0,
+                        "GenerateHREvent": false,
+                        "XRefCode": "EmployeePropertyXrefCode76",
+                        "ShortName": "MK Employee Number",
+                        "LongName": "Defined as the Employee Number of the original record in Dayforce of this person, maintained so that external systems and analyses can link multiple records for the one person"
+                    },
+                    "StringValue": "23699678",
+                    "LastModifiedTimestamp": "2020-10-28T04:14:28"
+                },
+                {
+                    "EffectiveStart": "2020-10-01T00:00:00",
+                    "EmployeeProperty": {
+                        "DataType": 2,
+                        "EmployeeCardinality": 0,
+                        "GenerateHREvent": false,
+                        "XRefCode": "EmployeePropertyXrefCode77",
+                        "ShortName": "Concur Employee ID",
+                        "LongName": "Equal to the Ref Code of the original Dayforce record for this employee, so that Concur can recognize this record is for that same employee"
+                    },
+                    "StringValue": "30431020",
+                    "LastModifiedTimestamp": "2020-10-28T04:20:55"
+                },
+                {
+                    "EffectiveStart": "2021-05-17T00:00:00",
+                    "EmployeeProperty": {
+                        "DataType": 2,
+                        "EmployeeCardinality": 0,
+                        "GenerateHREvent": false,
+                        "XRefCode": "EmployeePropertyXrefCode1",
+                        "ShortName": "Employee Cost Center",
+                        "LongName": "Employee Cost Center"
+                    },
+                    "StringValue": "29101126",
+                    "LastModifiedTimestamp": "2021-05-17T09:06:40.293"
+                }
+            ]
+        },
+        "OrgUnitInfos": {
+            "Items": [
+                {
+                    "OrgUnitDetail": {
+                        "EffectiveStart": "2020-07-01T00:00:00",
+                        "ChildSortOrder": 47,
+                        "IsPhysicalLocation": false,
+                        "IsPrimary": true,
+                        "ParentSortOrder": 1,
+                        "OrgLevel": {
+                            "XRefCode": "Corp",
+                            "ShortName": "Corporate",
+                            "LongName": "Corporate Level"
+                        },
+                        "XRefCode": "MediaKind",
+                        "ShortName": "MediaKind",
+                        "LongName": "MediaKind"
+                    },
+                    "LastModifiedTimestamp": "2020-07-01T18:45:06.937"
+                },
+                {
+                    "OrgUnitDetail": {
+                        "EffectiveStart": "2020-07-01T00:00:00",
+                        "ChildSortOrder": 47,
+                        "IsPhysicalLocation": false,
+                        "IsPrimary": true,
+                        "ParentSortOrder": 2,
+                        "OrgLevel": {
+                            "XRefCode": "Region",
+                            "ShortName": "Region",
+                            "LongName": "Region Level"
+                        },
+                        "XRefCode": "NA",
+                        "ShortName": "NA",
+                        "LongName": "North America"
+                    },
+                    "LastModifiedTimestamp": "2020-07-01T18:45:06.937"
+                },
+                {
+                    "OrgUnitDetail": {
+                        "EffectiveStart": "2020-07-01T00:00:00",
+                        "ChildSortOrder": 47,
+                        "IsPhysicalLocation": false,
+                        "IsPrimary": true,
+                        "ParentSortOrder": 3,
+                        "OrgLevel": {
+                            "XRefCode": "District",
+                            "ShortName": "District",
+                            "LongName": "District Level"
+                        },
+                        "XRefCode": "CAN",
+                        "ShortName": "Canada",
+                        "LongName": "Canada"
+                    },
+                    "LastModifiedTimestamp": "2020-07-01T18:45:06.937"
+                },
+                {
+                    "OrgUnitDetail": {
+                        "EffectiveStart": "2020-07-01T00:00:00",
+                        "Address": {
+                            "Address1": "8275 Route Transcanadienne",
+                            "City": "Saint-Laurent",
+                            "PostalCode": "H4S 0B6",
+                            "Country": {
+                                "XRefCode": "CAN"
+                            },
+                            "State": {
+                                "XRefCode": "QC"
+                            }
+                        },
+                        "ChildSortOrder": 47,
+                        "IsPhysicalLocation": true,
+                        "IsPrimary": true,
+                        "ParentSortOrder": 34,
+                        "OrgLevel": {
+                            "XRefCode": "Site",
+                            "ShortName": "Site",
+                            "LongName": "Site Level"
+                        },
+                        "XRefCode": "CAN-QC Montreal Remote",
+                        "ShortName": "CAN-QC Quebec Remote",
+                        "LongName": "CAN-QC Quebec Remote"
+                    },
+                    "LastModifiedTimestamp": "2020-07-01T18:45:06.937"
+                },
+                {
+                    "OrgUnitDetail": {
+                        "EffectiveStart": "2020-07-01T00:00:00",
+                        "ChildSortOrder": 47,
+                        "IsPhysicalLocation": false,
+                        "IsPrimary": true,
+                        "ParentSortOrder": 47,
+                        "OrgLevel": {
+                            "XRefCode": "OnSiteDepartment",
+                            "ShortName": "On-Site Department",
+                            "LongName": "On-Site Department"
+                        },
+                        "XRefCode": "QC Montreal Remote-Global Operations",
+                        "ShortName": "CAN-QC Quebec Remote-Global Operations",
+                        "LongName": "QC Quebec Remote-Global Operations"
+                    },
+                    "Department": {
+                        "XRefCode": "Global Operations",
+                        "ShortName": "Global Operations",
+                        "LongName": "Global Operations"
+                    },
+                    "LastModifiedTimestamp": "2020-07-01T18:45:06.937"
+                }
+            ]
+        },
+        "XRefCode": "30431020",
+        "DisplayName": "Franco Capitina",
+        "FirstName": "Franco",
+        "LastName": "Capitina"
+    }
+}
